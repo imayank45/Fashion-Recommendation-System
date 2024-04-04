@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+keras
+pickle
+PIL
