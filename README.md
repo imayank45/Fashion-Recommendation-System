@@ -1,4 +1,4 @@
-# Fashion-Recommendation-System
+# Fashion Recommendation System
 
 Fashion Recommendation System with Image Recognition is a cutting-edge application designed to provide users with personalized fashion suggestions based on uploaded images. Leveraging advanced deep learning techniques, the system analyzes the features of the uploaded image and retrieves visually similar fashion items from a pre-defined dataset. This project aims to revolutionize the way users discover and explore fashion trends, offering an intuitive and interactive platform for fashion enthusiasts.
 
